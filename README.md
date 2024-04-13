@@ -1,5 +1,6 @@
 ## My IT articles on Linux, networking and other interesting stuff 
-* [Investigating Docker rootless mode networking](rootless_docker.md)  
+* [Investigating Docker rootless mode networking](rootless_docker.md)   
+  [medium](https://medium.com/@dsoplanner/investigating-docker-rootless-mode-networking-2cbf563df0cd)  
   original article on [habr.com](https://habr.com/ru/articles/799625/) 
   
 
